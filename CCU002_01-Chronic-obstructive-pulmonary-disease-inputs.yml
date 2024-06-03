@@ -1,0 +1,84 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/ccu002_01-chronic-obstructive-pulmonary-disease-copd-tracheobronchitis---secondary.py
+inputModule3:
+  class: File
+  path: python/other-ccu002_01-chronic-obstructive-pulmonary-disease-copd---secondary.py
+inputModule4:
+  class: File
+  path: python/ccu002_01-chronic-obstructive-pulmonary-disease-copd-emphysema---secondary.py
+inputModule5:
+  class: File
+  path: python/ccu002_01-chronic-obstructive-pulmonary-disease-copd---secondary.py
+inputModule6:
+  class: File
+  path: python/unilateral-ccu002_01-chronic-obstructive-pulmonary-disease-copd---secondary.py
+inputModule7:
+  class: File
+  path: python/chemical-ccu002_01-chronic-obstructive-pulmonary-disease-copd---secondary.py
+inputModule8:
+  class: File
+  path: python/ccu002_01-chronic-obstructive-pulmonary-disease-copd-obliteran---secondary.py
+inputModule9:
+  class: File
+  path: python/zonal-ccu002_01-chronic-obstructive-pulmonary-disease-copd---secondary.py
+inputModule10:
+  class: File
+  path: python/obliterative-ccu002_01-chronic-obstructive-pulmonary-disease-copd---secondary.py
+inputModule11:
+  class: File
+  path: python/severe-ccu002_01-chronic-obstructive-pulmonary-disease-copd---secondary.py
+inputModule12:
+  class: File
+  path: python/toxic-ccu002_01-chronic-obstructive-pulmonary-disease-copd---secondary.py
+inputModule13:
+  class: File
+  path: python/segmental-ccu002_01-chronic-obstructive-pulmonary-disease-copd---secondary.py
+inputModule14:
+  class: File
+  path: python/vesicular-ccu002_01-chronic-obstructive-pulmonary-disease-copd---secondary.py
+inputModule15:
+  class: File
+  path: python/bullous-ccu002_01-chronic-obstructive-pulmonary-disease-copd---secondary.py
+inputModule16:
+  class: File
+  path: python/giant-ccu002_01-chronic-obstructive-pulmonary-disease-copd---secondary.py
+inputModule17:
+  class: File
+  path: python/ccu002_01-chronic-obstructive-pulmonary-disease-copd-stage---secondary.py
+inputModule18:
+  class: File
+  path: python/ccu002_01-chronic-obstructive-pulmonary-disease-copd-collapse---secondary.py
+inputModule19:
+  class: File
+  path: python/moderate-ccu002_01-chronic-obstructive-pulmonary-disease-copd---secondary.py
+inputModule20:
+  class: File
+  path: python/asthmatic-ccu002_01-chronic-obstructive-pulmonary-disease-copd---secondary.py
+inputModule21:
+  class: File
+  path: python/mixed-ccu002_01-chronic-obstructive-pulmonary-disease-copd---secondary.py
+inputModule22:
+  class: File
+  path: python/atrophic-ccu002_01-chronic-obstructive-pulmonary-disease-copd---secondary.py
+inputModule23:
+  class: File
+  path: python/ccu002_01-chronic-obstructive-pulmonary-disease-copd-specified---secondary.py
+inputModule24:
+  class: File
+  path: python/ccu002_01-chronic-obstructive-pulmonary-disease-copd-exacerbation---secondary.py
+inputModule25:
+  class: File
+  path: python/acute-ccu002_01-chronic-obstructive-pulmonary-disease-copd---secondary.py
+inputModule26:
+  class: File
+  path: python/ccu002_01-chronic-obstructive-pulmonary-disease-copd-airway---secondary.py
+inputModule27:
+  class: File
+  path: python/chronic---secondary.py
+inputModule28:
+  class: File
+  path: python/output-cases.py
